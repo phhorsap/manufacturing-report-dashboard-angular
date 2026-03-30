@@ -1,5 +1,7 @@
-# dasboard-report-angular-chartjs
-![image](https://github.com/user-attachments/assets/18fea704-ad22-4588-a75c-a3ba2749f34d)
+# manufacturing-report-dashboard-angular
+
+<img width="1339" height="664" alt="image" src="https://github.com/user-attachments/assets/38286967-1647-4c18-a321-e1849b611cff" />
+
 
 # 📊 Manufacturing Performance Dashboard
 A real-time production monitoring dashboard built with **Angular**, **Material UI**, and **Chart.js**.
